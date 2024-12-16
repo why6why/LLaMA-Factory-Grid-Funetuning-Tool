@@ -5,7 +5,7 @@ The parameters fine-tuning method of the grid search is an approach that involve
 
 Two main method is provided:
 1. Generate a new YAML file through grid parameters and the original YAML
-2. Execute the new YAML files in sequence
+2. Execute the new YAML files in sequence. Before that, you can delete the YAML file with the parameters you don't want to execute.
 
 
 We welcome everyone to further modify and optimize the tool based on the code provided.
